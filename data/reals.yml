@@ -1,0 +1,30 @@
+# reals.yml
+- title: "Neurun X Adidas"
+  description: "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus."
+  icon: "fas fa-running"
+  side: "left"
+  image: "neurun.jpg"
+
+- title: "ESParf' "
+  description: "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus."
+  icon: "fas fa-spray-can"
+  side: "right"
+  image: "esparf.png"
+
+- title: "Video mapping"
+  description: "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus."
+  icon: "fas fa-film"
+  side: "left"
+  image: "diginight.jpg"
+
+- title: "Lan esd 2018"
+  description: "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus."
+  icon: "fas fa-gamepad"
+  side: "right"
+  image: "lan.jpg"
+
+- title: "Jeu Snake"
+  description: "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus."
+  icon: "fas fa-code"
+  side: "left"
+  image: "snake.jpg"
